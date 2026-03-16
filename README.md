@@ -1,4 +1,4 @@
-# Movie Rating Database (SQL Project)
+# Movie Rating Database Project
 
 ## Project Overview
 
