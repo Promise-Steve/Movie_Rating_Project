@@ -1,10 +1,10 @@
-# Movie Rating Database (SQL Project)
+# Movie Rating Database Project
 
-## Project Overview
+## Overview
 
-This project demonstrates how to build and analyze a **Movie Rating Database** using SQL. The system simulates a simple movie rating platform where users rate movies, allowing analysts to explore trends, user behavior, and movie popularity.
+This project demonstrates how to build and analyse a **Movie Rating Database** using SQL. The system simulates a simple movie rating platform where users rate movies, allowing analysts to explore trends, user behaviour, and movie popularity.
 
-The project walks through key SQL concepts including:
+The project walks through key SQL concepts, including:
 
 * Database creation
 * Table design
@@ -152,7 +152,7 @@ Examples:
 
 ---
 
-# Skills Practiced
+# Skills Practised
 
 This project strengthens the following SQL skills:
 
